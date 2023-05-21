@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 New line!
 Git tracks changes of files.
 for see diference of changes
+something else
